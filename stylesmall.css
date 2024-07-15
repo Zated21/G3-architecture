@@ -1,0 +1,30 @@
+@media screen and (max-width:576px) {  
+    .nav{
+     flex-direction: column; 
+    }
+ 
+    .nav h1{
+     margin-bottom: 30px;
+     font-size: 0.;
+    }
+ 
+    .dark-3{
+     padding-left: 20px;
+    }
+ 
+    .navbar{
+     align-items: center;
+    }
+ 
+    .company-header img{
+     max-width: 92%;
+    }
+
+    .company-txt h1{
+        font-size: 1.8rem;
+    }
+
+    .company{
+        text-align: center;
+    }
+  }
