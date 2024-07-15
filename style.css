@@ -139,8 +139,74 @@
     margin-bottom: 26px;
 }
 
+/* section-1-end */
+
+
+.card-right{
+    background-image: url(./images/architect.png) ;
+    background-size: contain;
+    height: 1000px;
+    width: 800px;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+}
+
+.card-right{
+    height: 1059px;
+}
 
 
 
+.cards{
+    flex-direction: column;
+}
 
+.card-left{
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.section-2{
+    padding:40px 240px 40px 240px;
+    justify-content: space-between;
+    background-color: #ffff;
+}
  
+.card-left>h1 {
+    border-left: 4px solid #FF900E;
+    padding-left: 20px;
+    font-weight: 700;
+    font-size: 2.81rem;
+}
+
+.card-left>p{
+   margin-top: 24px;
+   opacity: 0.8;
+   font-size: 1rem;
+   margin-bottom: 30px;
+}
+
+.card1, .card2, .card3, .card4{
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 8px #8a8a8a ;
+    border-radius: 8px;
+}
+
+.card1>h2, .card2>h2, .card3>h2, .card4>h2{
+    font-weight: 550;
+    margin-bottom: 10px;
+}
+
+.btn-3{
+    margin-top: 900px;
+    padding: 46px 42px;
+    margin-right: -1000px;
+    margin-bottom: -76px;
+}
+
+.card-right{
+ padding-left: 76px;
+ margin-left: 76px;
+
+}
