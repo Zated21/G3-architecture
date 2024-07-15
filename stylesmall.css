@@ -27,4 +27,28 @@
     .company{
         text-align: center;
     }
+    /* heading-end */
+
+    .group-pic{
+        grid-template-columns: repeat(1,100px);
+    }
+
+    .group{
+        padding: 0px;
+        padding-top: 30px;
+        margin-bottom: 30px;
+    }
+    .group-pic img{
+        width: 100%;
+        height: 100%;
+        padding-left: 20px;
+    }
+    .group-txt h1{
+        font-size: 1.2rem;
+    }
+    .right-side{
+        padding: 30px 20px 30px 20px;
+    }
+
+
   }
