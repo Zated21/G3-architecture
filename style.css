@@ -235,6 +235,12 @@
     flex-direction: column;
 }
 
+.box1>h3,.box2>h3,.box3>h3,.box4>h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
 .box-txt{
     margin-left: 242px;
 }
