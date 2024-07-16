@@ -48,7 +48,75 @@
     }
     .right-side{
         padding: 30px 20px 30px 20px;
+        margin: 0px;
     }
 
+    /* .section-2-end */
+    .right{
+       padding-right: 0px;
+       padding-left: 0px;
+       justify-content: center;
+    }
 
+    .card-right{
+        height:400px;
+        padding: 0px;
+        width: 0px;
+    }
+
+    .section-2{
+        padding: 0px;
+        flex-direction: column-reverse;
+    }
+
+    .btn-3{
+
+    }
+
+    .card-left > h1,p{
+        padding: 30px;
+    }
+
+    .cards{
+        padding: 30px;
+    }
+
+    .year-btn{
+       margin: 0px;
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       margin-left: 120px;
+    }
+    .right{
+        display: none;
+    }
+
+    .dark-3 {
+        padding-left: 0px;
+    }
+
+    /* section-2-end */
+    .boxes{
+        display: grid;
+        grid-template-columns: repeat(2, 130px);
+        padding: 0px;
+        gap: 30px;
+    }
+
+    .box1,.box2,.box3,.box4{
+        padding: 0px;
+        padding-top: 40px;
+    }
+
+    .section-3{
+        margin-top: 300px;
+        margin-bottom: 50px;
+    }
+
+    .box-txt{
+        padding: 0px;
+        margin: 0px;
+        text-align: center;
+    }
   }
