@@ -91,4 +91,30 @@
         margin: 0px;
         text-align: center;
     }
+
+    /* section-3-end */
+
+    .section-4{
+        padding: 0px;
+    }
+
+    .sponsors{
+        flex-wrap: wrap;
+    }
+
+    .sponsor-txt{
+        margin-top: 30px;
+    }
+
+    /* section-4-end */
+
+    .footer{
+        margin: 0px;
+        padding: 0px;
+        padding: 40px;
+    }
+
+    footer{
+        padding: 20px;
+    }
 }
